@@ -1,6 +1,6 @@
 {
   "name": "lkx-a",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is lkx-a",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.6.0",
-    "lkx-b": "^1.0.1",
+    "lkx-b": "^1.0.2",
     "lodash": "^4.17.21"
   },
   "gitHead": "925e759c62e05206cf2a6ddd007ceb3667a6c074"
