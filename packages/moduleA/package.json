@@ -1,0 +1,16 @@
+{
+  "name": "lkx-a",
+  "version": "1.0.0",
+  "description": "this is lkx-a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lkx",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lkx-b": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
