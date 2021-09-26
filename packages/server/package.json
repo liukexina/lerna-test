@@ -1,7 +1,7 @@
 {
   "name": "server",
   "private": true,
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lkx-b": "^1.0.7"
+    "lkx-b": "^1.0.8"
   }
 }
