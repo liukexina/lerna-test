@@ -11,9 +11,7 @@
   "dependencies": {
     "husky": "^7.0.2",
     "jquery": "^3.6.0",
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {
+    "lodash": "^4.17.21",
     "lkx-b": "^1.0.7"
   }
 }
