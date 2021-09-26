@@ -1,6 +1,6 @@
 {
   "name": "lkx-a",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "this is lkx-a",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,5 @@
     "jquery": "^3.6.0",
     "lkx-b": "^1.0.5",
     "lodash": "^4.17.21"
-  },
-  "gitHead": "925e759c62e05206cf2a6ddd007ceb3667a6c074"
+  }
 }
