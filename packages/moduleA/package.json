@@ -1,6 +1,6 @@
 {
   "name": "lkx-a",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "this is lkx-a",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "lkx-b": "^1.0.6"
+    "lkx-b": "^1.0.7"
   }
 }
