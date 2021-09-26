@@ -1,6 +1,6 @@
 {
   "name": "lkx-a",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "this is lkx-a",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,7 @@
   "dependencies": {
     "husky": "^7.0.2",
     "jquery": "^3.6.0",
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {
-    "lkx-b": "^1.0.5"
+    "lodash": "^4.17.21",
+    "lkx-b": "^1.0.6"
   }
 }
