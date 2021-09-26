@@ -1,1 +1,1 @@
-console.log('a-åss')
+console.log('a2-åss')
