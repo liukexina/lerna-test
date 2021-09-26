@@ -1,1 +1,1 @@
-console.log('ys-b')
+console.log('ys-')
