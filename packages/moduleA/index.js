@@ -1,1 +1,1 @@
-console.log('lkx-a');
+console.log('lkx-a:test');
