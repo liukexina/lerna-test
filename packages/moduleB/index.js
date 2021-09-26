@@ -1,1 +1,1 @@
-console.log('aa-åss')
+console.log('a-åss')
