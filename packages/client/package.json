@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lkx-a": "^1.1.5"
+    "lkx-a": "^1.1.5",
+    "dayjs":"1.10.7"
   }
 }
