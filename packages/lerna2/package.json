@@ -1,6 +1,6 @@
 {
   "name": "lerna2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lerna2",
   "keywords": [
     "lerna2"
@@ -22,9 +22,9 @@
     "lerna2": "cli.js"
   },
   "dependencies": {
-    "@lerna2/cli": "^1.0.2",
-    "@lerna2/create": "^1.0.2",
-    "@lerna2/init": "^1.0.2"
+    "@lerna2/cli": "^1.0.3",
+    "@lerna2/create": "^1.0.3",
+    "@lerna2/init": "^1.0.3"
   },
   "repository": {
     "type": "git",
