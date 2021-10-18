@@ -1,6 +1,6 @@
 {
   "name": "@lerna2/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "@lerna2/cli",
   "keywords": [
     "@lerna2/cli"
@@ -31,5 +31,5 @@
   "dependencies": {
     "yargs": "^17.2.1"
   },
-  "gitHead": "53c3650468ee7779994f45800645a6e4ac231286"
+  "gitHead": "1ffebe6657a68d16ea383fb3758aa19cff6df475"
 }
