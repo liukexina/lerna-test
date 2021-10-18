@@ -18,7 +18,7 @@ class CreateCommand {
     // pify 可以把一个回调方式改为promise方式
     await initPackageJson(this.targetDir, '')
    
-    console.info(("Initialized Lerna files"))
+    console.info(("新包创建成功"))
   }
 
 }
