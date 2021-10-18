@@ -1,0 +1,39 @@
+{
+  "name": "lerna2",
+  "version": "1.0.0",
+  "description": "lerna2",
+  "keywords": [
+    "lerna2"
+  ],
+  "author": "刘可新 <liukexin08@maoyan.com>",
+  "homepage": "https://github.com/liukexina/lerna-test#readme",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "bin": {
+    "lerna2": "cli.js"
+  },
+  "dependencies": {
+    "@lerna2/cli": "^1.0.0",
+    "@lerna2/init": "^1.0.0",
+    "@lerna2/create": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukexina/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/liukexina/lerna-test/issues"
+  }
+}
