@@ -18,7 +18,7 @@ lerna boostrap
 ```
 
 ## 测试
-到packages/lerna2目录下执行npm link将lerna2 link到全局
+根目录下执行npm link将lerna2 link到全局
 
 然后执行以下方法
 ```
