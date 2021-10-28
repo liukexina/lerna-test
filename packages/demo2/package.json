@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "dependencies": {
+    "demo1":"1.0.2"
+  },
   "files": [
     "lib"
   ],
