@@ -1,6 +1,6 @@
 {
   "name": "demo2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "刘可新 <liukexin08@maoyan.com>",
   "homepage": "https://github.com/liukexina/lerna-test#readme",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "demo1": "^1.0.3"
+    "demo1": "^1.0.4"
   },
   "files": [
     "lib"
